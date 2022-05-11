@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Raphaël Mariétan</h1>
 
-<!--
-**Rmarieta/Rmarieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:student: Master student at EPFL with strong interest and experience in signal processing, computer vision and Deep Learning. Took part to multiple projects that involved building a complete Data Analysis pipeline; ranging from Data extraction, exploration and presentation, to extracting models and explaining them. The most recent (public) one being : <a href='https://github.com/Rmarieta/LTS4'>EEG signal classification project</a>
 
-Here are some ideas to get you started:
+:page_facing_up: Master Thesis on 'Using Deep Reinforcement Learning to Segment and Extract the Spatial Connectivity of 3D Neurons'. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Python, Bash, C++, JavaScript, CSS, HTML, R, MATLAB, Java, Git, Excel.
+
+:scroll: EPFL, Lausanne. Bsc in Life Sciences Engineering, Msc in Computational Neurosciences.
+
+:globe_with_meridians: Lausanne, Switzerland.
+
+🎂 24 years old.
+
+Hobbies : :soccer::tennis::mountain_snow::camping::earth_africa:
+
