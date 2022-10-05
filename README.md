@@ -6,7 +6,7 @@
 
 💻 Python, Bash, C++, JavaScript, CSS, HTML, R, MATLAB, Java, Git, Excel.
 
-:scroll: EPFL, Lausanne. BS in Life Sciences Engineering, MS in Computational Neurosciences.
+:scroll: EPFL, Lausanne. BSc in Life Sciences Engineering, MSc in Computational Neurosciences.
 
 :globe_with_meridians: Lausanne, Switzerland.
 
