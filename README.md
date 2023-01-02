@@ -21,5 +21,5 @@ I also showcase multiple software engineering projects on my page, in which I di
 
 🎂 24 years old.
 
-Hobbies : :soccer::tennis::mountain_snow::camping::earth_africa:
+Hobbies : 🏃:soccer::tennis::mountain_snow::camping::earth_africa:
 
