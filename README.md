@@ -6,9 +6,14 @@
 - <a href='https://github.com/Rmarieta/LTS4'>Building and Interpretation of a Seizure Classifier from EEG Recordings Using Graph Signal Processing</a>.
 - <a href='https://github.com/Rmarieta/NeuroDrosophila'>Implementation of a Computational Model of a Drosophila with Sensorimotor Functions</a>.
 
-I also showcase multiple software engineering projects on my page, in which I display full-stack \[ <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a> \], backend and frontend development interfaces \[ a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Markeplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a> \].
+I also showcase multiple software engineering projects on my page, in which I display full-stack \(<a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>\), frontend \(a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Markeplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a>\) and backend development interfaces \(such as a <a href='https://github.com/Rmarieta/JobListingSpringReact'>Job Listing</a> app, or an <a href='https://github.com/Rmarieta/EmployeeAngularSpring'>Employee Management</a> system\).
 
-💻 Python, Bash, C++, JavaScript, CSS, HTML, R, MATLAB, Java, Git, SQL, Excel, Docker, Flask, Web dev (NodeJS, ReactJS, Firebase, Material UI).
+💻 Coding Skills
+- Languages : Python, Java, C++, JS, CSS, HTML, R, SQL, Bash
+- Frontend : ReactJS, NodeJS, Material UI, Angular
+- Backend : Spring Boot, NodeJS, Firebase, Flask
+- Databases : MySQL, MongoDB, PostgreSQL
+- Other : Git, Docker, R, MATLAB, Excel
 
 :scroll: EPFL, Lausanne. BSc in Life Sciences Engineering, MSc in Computational Neurosciences.
 
