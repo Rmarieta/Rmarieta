@@ -10,10 +10,11 @@ I also showcase multiple software engineering projects on my page, in which I di
 
 💻 Coding Skills
 - Languages : Python, Java, C++, JavaScript, TypeScript, CSS, HTML, R, SQL, Bash
+- Machine Learning : Docker, CUDA, Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning
 - Frontend : ReactJS, NodeJS, Material UI, Angular
 - Backend : Spring Boot, NodeJS, Firebase, Flask
 - Databases : MySQL, MongoDB, PostgreSQL
-- Other : Git, Docker, R, MATLAB, Excel
+- Other : Git, R, MATLAB, Excel
 
 :scroll: EPFL, Lausanne. BSc in Life Sciences Engineering, MSc in Computational Neurosciences.
 
