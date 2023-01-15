@@ -9,7 +9,7 @@
 I also showcase multiple software engineering projects on my page, in which I display full-stack \(<a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>\), frontend \(a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Markeplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a>\) and backend development interfaces \(such as a <a href='https://github.com/Rmarieta/JobListingSpringReact'>Job Listing</a> app, or an <a href='https://github.com/Rmarieta/EmployeeAngularSpring'>Employee Management</a> system\).
 
 💻 Coding Skills
-- Languages : Python, Java, C++, JavaScript, TypeScript, CSS, HTML, R, SQL, Bash
+- Languages : Python, Java, C++, JavaScript, TypeScript, CSS, HTML, SQL, Bash
 - Machine Learning : Docker, CUDA, Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning
 - Frontend : ReactJS, NodeJS, Material UI, Angular
 - Backend : Spring Boot, NodeJS, Firebase, Flask
