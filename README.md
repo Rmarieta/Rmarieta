@@ -11,7 +11,7 @@ I also showcase multiple software engineering projects on my page, in which I di
 💻 Coding Skills
 - Languages : Python, Java, C++, JavaScript, TypeScript, CSS, HTML, SQL, Bash
 - Machine Learning : Docker, CUDA, Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning
-- Frontend : ReactJS, NodeJS, Material UI, Angular
+- Frontend : ReactJS, NextJS, Material UI, Angular
 - Backend : Spring Boot, NodeJS, Firebase, Flask
 - Databases : MySQL, MongoDB, PostgreSQL
 - Other : Git, R, MATLAB, Excel
