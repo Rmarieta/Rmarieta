@@ -9,12 +9,12 @@
 I also showcase multiple software engineering projects on my page, in which I display full-stack \(a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, a <a href="https://github.com/Rmarieta/FacebookCloneReactSpring">Facebook Clone</a>\), frontend \(a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Markeplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a>\) and backend development interfaces \(such as a <a href='https://github.com/Rmarieta/JobListingSpringReact'>Job Listing</a> app, or an <a href='https://github.com/Rmarieta/EmployeeAngularSpring'>Employee Management</a> system\).
 
 💻 Coding Skills
-- Languages : Python, Java, C++, JavaScript, TypeScript, CSS, HTML, SQL, Bash
-- Machine Learning : Docker, CUDA, Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning
-- Frontend : ReactJS, NextJS, Material UI, Angular
-- Backend : Spring Boot, NodeJS, Firebase, Flask
-- Databases : MySQL, MongoDB, PostgreSQL
-- Other : Git, R, MATLAB, Excel
+- Languages : Python, Java, C++, JavaScript, TypeScript, CSS, HTML, SQL, Bash.
+- Machine Learning : Docker, CUDA, Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning.
+- Frontend : ReactJS, NextJS, Material UI, Angular.
+- Backend : Spring Boot, NodeJS, Flask.
+- Databases : MySQL, MongoDB, PostgreSQL, Firebase.
+- Other : Git, GitHub Actions, R, MATLAB, Excel.
 
 :scroll: EPFL, Lausanne. BSc in Life Sciences Engineering, MSc in Computational Neurosciences.
 
