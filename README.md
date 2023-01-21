@@ -1,6 +1,6 @@
 <h1>Raphaël Mariétan</h1>
 
-:student: Graduate from the EPFL with strong interest and experience in signal processing, computer vision, Deep Learning, and Web development. I took part to multiple projects that involved building a complete Data Analysis pipeline; ranging from Data extraction, exploration and presentation, to extracting models and explaining them. Example of some personal projects : 
+:student: Graduate from the EPFL with strong interest and experience in Software Engineering, Deep Learning, Computer Vision and Signal Processing. I took part to multiple projects that involved building a complete Data Analysis pipeline; ranging from Data extraction, exploration and presentation, to extracting models and explaining them. Example of some personal projects : 
 
 :page_facing_up: Master Thesis on <a href='https://github.com/Rmarieta/3DNeuronDeepReinfLearning'>Using Deep Reinforcement Learning to Segment and Extract the Spatial Connectivity of 3D Neurons</a>. 
 - <a href='https://github.com/Rmarieta/LTS4'>Building and Interpretation of a Seizure Classifier from EEG Recordings Using Graph Signal Processing</a>.
@@ -19,8 +19,6 @@ I also showcase multiple software engineering projects on my page, on which I di
 :scroll: EPFL, Lausanne. BSc in Life Sciences Engineering, MSc in Computational Neurosciences.
 
 :globe_with_meridians: Lausanne, Switzerland.
-
-🎂 24 years old.
 
 Hobbies : 🏃:soccer::tennis::mountain_snow::camping::earth_africa:
 
