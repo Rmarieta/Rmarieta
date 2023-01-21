@@ -16,7 +16,7 @@ I also showcase multiple software engineering projects on my page, on which I di
 - Databases : MySQL, MongoDB, PostgreSQL, Firebase.
 - Other : Git, GitHub Actions, R, MATLAB, Excel.
 
-:scroll: EPFL, Lausanne. BSc in Life Sciences Engineering, MSc in Computational Neurosciences.
+:scroll: EPFL, Lausanne, MSc in Computational Neurosciences.
 
 :globe_with_meridians: Lausanne, Switzerland.
 
