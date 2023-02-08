@@ -4,7 +4,7 @@
 
 :mortar_board: EPFL graduate with strong interest and expertise in :
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineering :heavy_plus_sign: Deep Learning :heavy_plus_sign: Computer Vision :heavy_plus_sign: Data Science
+<p align="center">Software Engineering &nbsp; :heavy_plus_sign: &nbsp; Deep Learning &nbsp; :heavy_plus_sign: &nbsp; Computer Vision &nbsp; :heavy_plus_sign: &nbsp; Data Science</p>
 
 </br>
 
