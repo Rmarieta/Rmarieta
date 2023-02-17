@@ -8,7 +8,7 @@
 
 </br>
 
-:file_folder: Most notable <b>Software Engineering</b> projects :
+:file_folder: <b>Software Engineering</b> :
 
 - Fullstack projects : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>,  a <a href="https://github.com/Rmarieta/SpotifyAngular">Spotify Clone</a> fetching real user data, and a <a href="https://github.com/Rmarieta/FacebookCloneReactSpring">Facebook Clone</a>.
 - Frontend projects : a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a>.
@@ -16,7 +16,7 @@
 
 </br>
 
-:bar_chart: Other personal projects involving <b>Deep Learning, Computer Vision</b> or <b>Data Science</b> :
+:bar_chart: Other personal projects involving <b>Deep Learning, Computer Vision</b> and/or <b>Data Science</b> :
 
 - <b>Master Thesis</b> on <a href='https://github.com/Rmarieta/3DNeuronDeepReinfLearning'>Using Deep Reinforcement Learning to Segment and Extract the Spatial Connectivity of 3D Neurons</a>. 
 - <a href='https://github.com/Rmarieta/LTS4'>Building and Interpretation of a Seizure Classifier from EEG Recordings Using Graph Signal Processing</a>.
