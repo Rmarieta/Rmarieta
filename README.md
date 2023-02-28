@@ -2,7 +2,7 @@
 
 </br>
 
-:mortar_board: EPFL graduate with strong interest and expertise in :
+:mortar_board: Full-time Software Developer working at EPFL with strong interest and expertise in :
 
 <p align="center">Software Engineering &nbsp; :heavy_plus_sign: &nbsp; Deep Learning &nbsp; :heavy_plus_sign: &nbsp; Computer Vision &nbsp; :heavy_plus_sign: &nbsp; Data Science</p>
 
