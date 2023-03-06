@@ -4,7 +4,7 @@
 
 📌 Full-time Software Developer working for the EPFL with strong interest and expertise in :
 
-<p align="center">**Software Engineering** &nbsp; :heavy_plus_sign: &nbsp; **Deep Learning** &nbsp; :heavy_plus_sign: &nbsp; **Computer Vision** &nbsp; :heavy_plus_sign: &nbsp; **Data Science** &nbsp; :heavy_plus_sign: &nbsp; **Biotechnology**</p>
+<p align="center"><b>Software Engineering</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Deep Learning</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Computer Vision</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Data Science</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Biotechnology</b></p>
 
 </br>
 
