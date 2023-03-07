@@ -10,7 +10,7 @@
 
 📁 <b>Software Engineering</b> :
 
-- Fullstack projects : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>,  a <a href="https://github.com/Rmarieta/SpotifyAngular">Spotify Clone</a> fetching real user data, and a <a href="https://github.com/Rmarieta/FacebookCloneReactSpring">Facebook Clone</a>.
+- Fullstack projects : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, a <a href="https://github.com/Rmarieta/FacebookCloneReactSpring">Facebook Clone</a>, and a <a href="https://github.com/Rmarieta/SpotifyAngular">Spotify Clone</a> fetching real user data.
 - Frontend projects : a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a>.
 - Backend projects : a <a href='https://github.com/Rmarieta/JobListingSpringReact'>Job Listing</a> app, or an <a href='https://github.com/Rmarieta/EmployeeAngularSpring'>Employee Management</a> system.
 
