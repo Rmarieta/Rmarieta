@@ -25,12 +25,12 @@
 </br>
 
 💻 Coding Skills :
-- <b>Languages</b> : Python, Java, C++, JavaScript, TypeScript, CSS, HTML, SQL, Bash.
-- <b>Machine Learning</b> : Docker, CUDA, Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning.
+- <b>Languages</b> : Python, JavaScript, TypeScript, CSS, HTML, Java, C++, SQL, Bash.
+- <b>Machine Learning</b> : CUDA, Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning.
 - <b>Frontend</b> : React, Angular, Next.js, React Native.
-- <b>Backend</b> : Spring Boot, Node.js, Flask.
+- <b>Backend</b> : Flask, Spring Boot, Node.js.
 - <b>Databases</b> : MySQL, MongoDB, PostgreSQL, Firebase.
-- <b>Other</b> : Git, GitHub Actions, R, MATLAB, Excel.
+- <b>Other</b> : Docker, Git, GitHub Actions, R, MATLAB, Excel.
 
 </br>
 
