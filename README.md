@@ -2,17 +2,17 @@
 
 </br>
 
-📌 Full-time Software Developer working for the EPFL with strong interest and expertise in :
+📌 Full-time Software Engineer working for the EPFL with strong interest and expertise in :
 
-<p align="center"><b>Software Engineering</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Deep Learning</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Computer Vision</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Data Science</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Biotechnology</b></p>
+<p align="center"><b>Software Development</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Deep Learning</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Computer Vision</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Data Science</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Biotechnology</b></p>
 
 </br>
 
-📁 <b>Software Engineering</b> :
+📁 <b>Software</b> :
 
-- Fullstack projects : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, a <a href="https://github.com/Rmarieta/FacebookCloneReactSpring">Facebook Clone</a>, and a <a href="https://github.com/Rmarieta/SpotifyAngular">Spotify Clone</a> fetching real user data.
-- Frontend projects : a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a>.
-- Backend projects : a <a href='https://github.com/Rmarieta/JobListingSpringReact'>Job Listing</a> app, or an <a href='https://github.com/Rmarieta/EmployeeAngularSpring'>Employee Management</a> system.
+- Fullstack : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, a <a href="https://github.com/Rmarieta/FacebookCloneReactSpring">Facebook Clone</a>, and a <a href="https://github.com/Rmarieta/SpotifyAngular">Spotify Clone</a> fetching real user data.
+- Frontend : a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a>.
+- Backend : a <a href='https://github.com/Rmarieta/JobListingSpringReact'>Job Listing</a> app, or an <a href='https://github.com/Rmarieta/EmployeeAngularSpring'>Employee Management</a> system.
 
 </br>
 
@@ -29,8 +29,8 @@
 - <b>Machine Learning</b> : CUDA, Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning.
 - <b>Frontend</b> : React, Angular, Next.js, React Native.
 - <b>Backend</b> : Flask, Spring Boot, Node.js.
-- <b>Databases</b> : MySQL, MongoDB, PostgreSQL, Firebase.
-- <b>Other</b> : Docker, Git, GitHub Actions, R, MATLAB, Excel.
+- <b>Databases</b> : PostgreSQL, MySQL, MongoDB, Firebase.
+- <b>Other</b> : Docker, Git, R, MATLAB, Excel.
 
 </br>
 
