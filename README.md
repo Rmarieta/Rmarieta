@@ -29,7 +29,7 @@
 - <b>Machine Learning</b> : Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning.
 - <b>Frontend</b> : React, Angular, Next.js, React Native.
 - <b>Backend</b> : Flask, Spring Boot, Node.js.
-- <b>Databases</b> : PostgreSQL, MySQL, MongoDB, Firebase.
+- <b>DB</b> : PostgreSQL, MySQL, MongoDB, Firebase.
 - <b>Other</b> : Docker, Git, AWS.
 
 </br>
