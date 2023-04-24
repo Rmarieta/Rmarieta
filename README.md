@@ -34,7 +34,7 @@
 
 </br>
 
-📜 EPFL, Lausanne, MSc in Computational Neurosciences.
+📜 BSc & MSc at EPFL, Lausanne.
 
 </br>
 
