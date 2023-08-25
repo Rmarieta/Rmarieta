@@ -8,18 +8,17 @@
 
 </br>
 
-📁 <b>Software</b> :
+📁 <b>Software Development</b> :
 
-- Fullstack : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, a <a href="https://github.com/Rmarieta/FacebookCloneReactSpring">Facebook Clone</a>, and a <a href="https://github.com/Rmarieta/SpotifyAngular">Spotify Clone</a> fetching real user data.
-- Frontend : a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>, a <a href='https://github.com/Rmarieta/linkedin'>LinkedIn Clone</a> and a <a href='https://github.com/Rmarieta/ReactDashboard'>Responsive Dashboard</a>.
-- Backend : a <a href='https://github.com/Rmarieta/JobListingSpringReact'>Job Listing</a> app, or an <a href='https://github.com/Rmarieta/EmployeeAngularSpring'>Employee Management</a> system.
+- Built multiple apps involving frontend, backend and database skills using industry-leading frameworks, such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>. Check my personal repos for many more projects.
+- Current personal interests : building JupyterLab plugins (soon publicly released), algorithmic trading, and testing out new-coming AI tools (Langchain, AutoGPT, etc).
 
 </br>
 
-📊 Other personal projects involving <b>Deep Learning, Computer Vision</b> and/or <b>Data Science</b> :
+📊 Personal academic projects involving <b>Deep Learning, Computer Vision</b> and/or <b>Data Science</b> :
 
 - <b>Master Thesis</b> on <a href='https://github.com/Rmarieta/3DNeuronDeepReinfLearning'>Using Deep Reinforcement Learning to Segment and Extract the Spatial Connectivity of 3D Neurons</a>. 
-- <a href='https://github.com/Rmarieta/LTS4'>Building and Interpretation of a Seizure Classifier from EEG Recordings Using Graph Signal Processing</a>.
+- <a href='https://github.com/Rmarieta/LTS4'>Deep Learning and Graph Signal Processing to Classify Seizures from EEG Recordings</a>.
 - <a href='https://github.com/Rmarieta/NeuroDrosophila'>Implementation of a Computational Model of a Drosophila with Sensorimotor Functions</a>.
 
 </br>
