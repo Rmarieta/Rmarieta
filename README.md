@@ -31,7 +31,7 @@
 | <b>Frontend</b>         | React, Angular, Next.js, React Native                                     |
 | <b>Backend</b>          | Flask, Spring Boot, Node.js, REST, GraphQL                                |
 | <b>DB</b>               | PostgreSQL, MySQL, MongoDB, Firebase                                      |
-| <b>DevOps</b>           | Docker, Git, AWS, Jira    
+| <b>DevOps</b>           | Docker, Git, GitHub Actions, AWS, Jira                                    |
 
 </br>
 
