@@ -11,7 +11,8 @@
 📁 <b>Software Development</b> :
 
 - Built multiple apps involving frontend, backend and database skills using industry-leading frameworks, such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>. Check my personal repos for many more projects.
-- Current personal interests : building JupyterLab plugins (soon publicly released), algorithmic trading, and testing out new-coming AI tools (Langchain, AutoGPT, etc).
+- Contributing to JupyterLab and building plugins such as the publicly available <a href='https://github.com/Rmarieta/jupyterlab-code-toc'>Table of Contents extension with code content</a>.
+- Current personal interests : algorithmic trading and testing out new-coming AI tools (Langchain, AutoGPT, etc).
 
 </br>
 
