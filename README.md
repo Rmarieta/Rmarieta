@@ -30,7 +30,7 @@
 | <b>Languages</b>        | Python, JavaScript, TypeScript, CSS, HTML, Java, C++, SQL, Bash           |
 | <b>Machine Learning</b> | Supervised, Unsupervised, Reinforcement Learning, NLP, Transfer Learning  |
 | <b>Frontend</b>         | React, Angular, React Native                                              |
-| <b>Backend</b>          | Flask, Spring Boot, Node.js, REST, GraphQL, Postman                       |
+| <b>Backend</b>          | Flask, Spring Boot, Node.js, REST, GraphQL, WebSockets, Postman           |
 | <b>DB</b>               | PostgreSQL, MySQL, MongoDB, Firebase                                      |
 | <b>DevOps</b>           | Docker, Git, GitHub Actions, AWS, Jira, Confluence                        |
 
