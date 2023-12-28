@@ -10,7 +10,7 @@
 
 📁 <b>Software Development</b> :
 
-- Building on top of JupyterLab. Currently developing a tool that is already used in classrooms to enhance the interaction between teachers and students, soon to be publicly released. I also build extensions, such as this <a href='https://github.com/jupyterlab-contrib/jupyterlab-code-toc'>Table of Contents extension</a> with code and markdown content (public download available).
+- Building on top of Open Source. Developing a tool that is used by to enhance the interaction between teachers and students, soon to be publicly released. I also build extensions, such as this <a href='https://github.com/jupyterlab-contrib/jupyterlab-code-toc'>Table of Contents extension</a> with code and markdown content (public download available).
 - Built multiple apps involving frontend, backend and database skills using industry-leading frameworks, such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>. Check my personal repos for other projects.
 - Current personal interests : writing tutorials (<a href='https://medium.com/@raphael.marietan'>Medium Articles</a>), algorithmic trading and testing out new-coming AI tools.
 
