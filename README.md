@@ -11,12 +11,12 @@
 📁 <b>Software Development</b> :
 
 - Building on top of Open Source. Developing a tool that is used by to enhance the interaction between teachers and students, soon to be publicly released. I also build extensions, such as this <a href='https://github.com/jupyterlab-contrib/jupyterlab-code-toc'>Table of Contents extension</a> with code and markdown content (public download available).
-- Built multiple apps involving frontend, backend and database skills using industry-leading frameworks, such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>. Check my personal repos for other projects.
+- Built apps using industry-leading frameworks, such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>. Check my personal repos for other projects.
 - Current personal interests : writing tutorials (<a href='https://medium.com/@raphael.marietan'>Medium Articles</a>), algorithmic trading and testing out new-coming AI tools.
 
 </br>
 
-📊 Personal academic projects involving <b>Deep Learning, Computer Vision</b> and/or <b>Data Science</b> :
+📊 Personal academic projects involving <b>Deep Learning, Computer Vision, Biotech</b> and <b>Data Science</b> :
 
 - <b>Master Thesis</b> on <a href='https://github.com/Rmarieta/3DNeuronDeepReinfLearning'>Using Deep Reinforcement Learning to Segment and Extract the Spatial Connectivity of 3D Neurons</a>. 
 - <a href='https://github.com/Rmarieta/LTS4'>Deep Learning and Graph Signal Processing to Classify Seizures from EEG Recordings</a>.
