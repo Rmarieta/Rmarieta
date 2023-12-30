@@ -10,7 +10,7 @@
 
 📁 <b>Software Development</b> :
 
-- Building on top of Open Source, mainly JupyterLab:
+- Building on Open Source, mainly JupyterLab:
    1. Developing a tool that is used in EPFL classrooms to enhance the interaction between teachers and students, soon available to other univerisities too.
    2. Building JupyterLab extensions, such as this <a href='https://github.com/jupyterlab-contrib/jupyterlab-code-toc'>Table of Contents extension</a> with code and markdown content (public download available).
 - Built apps using industry-leading frameworks, such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>. Check my personal repos for other projects.
