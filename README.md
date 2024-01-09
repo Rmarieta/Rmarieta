@@ -13,7 +13,7 @@
 - Building on Open Source, mainly JupyterLab:
    1. Developing a tool that is already in production and used in university classrooms to enhance the interaction between teachers and students.
    2. Building JupyterLab extensions, such as this <a href='https://github.com/jupyterlab-contrib/jupyterlab-code-toc'>Table of Contents extension</a> with code and markdown content (public download available).
-- Built apps using industry-leading frameworks, such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/NFTMarketPlace'>NFT Marketplace</a>. Check my personal repos for other projects.
+- Many personal projects such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/flask-nginx-redis-psql'>Scalable Dockerized Backend </a> (with Flask/Nginx/Redis/PostgreSQL). Check my personal repos for other projects.
 - Other interests : writing tutorials (<a href='https://medium.com/@raphael.marietan'>Medium Articles</a>), algorithmic trading and testing out new-coming AI tools.
 
 </br>
