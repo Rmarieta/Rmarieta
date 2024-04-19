@@ -34,7 +34,7 @@
 | <b>Frontend</b>         | React, Angular, React Native                                                  |
 | <b>Backend</b>          | Flask, Spring Boot, Node.js, Redis, Nginx, REST, GraphQL, WebSockets, Postman |
 | <b>DB</b>               | PostgreSQL, MySQL, MongoDB, Firebase                                          |
-| <b>DevOps</b>           | Docker, Git, GitHub Actions, AWS, Jira, Confluence                            |
+| <b>DevOps</b>           | Docker, Kubernetes, Git, GitHub Actions, AWS, Jira, Confluence, Terraform     |
 | <b>Certifications</b>   | <p align="center"><img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/4f70dcfd-c985-4fda-b8e1-8a61ae666da4' width="90" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/a1b4453e-e6c5-42bb-9083-9bf5baa9bec1' width="90" /></p> |
 
 </br>
