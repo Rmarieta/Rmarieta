@@ -18,14 +18,6 @@
 
 </br>
 
-📊 Personal academic projects involving <b>Deep Learning, Computer Vision, Biotech</b> and <b>Data Science</b> :
-
-- <b>Master Thesis</b> on <a href='https://github.com/Rmarieta/3DNeuronDeepReinfLearning'>Using Deep Reinforcement Learning to Segment and Extract the Spatial Connectivity of 3D Neurons</a>. 
-- <a href='https://github.com/Rmarieta/LTS4'>Deep Learning and Graph Signal Processing to Classify Seizures from EEG Recordings</a>.
-- <a href='https://github.com/Rmarieta/NeuroDrosophila'>Implementation of a Computational Model of a Drosophila with Sensorimotor Functions</a>.
-
-</br>
-
 💻 Coding Skills :
 |                         |                                                                               |
 |-------------------------|-------------------------------------------------------------------------------|
@@ -34,8 +26,16 @@
 | <b>Frontend</b>         | React, Angular, React Native                                                  |
 | <b>Backend</b>          | Flask, Spring Boot, Node.js, Redis, Nginx, REST, GraphQL, WebSockets, Postman |
 | <b>DB</b>               | PostgreSQL, MySQL, MongoDB, Firebase                                          |
-| <b>DevOps</b>           | Docker, Kubernetes, Git, GitHub Actions, AWS, Jira, Confluence, Terraform     |
+| <b>DevOps</b>           | Docker, Kubernetes, Git, GitHub Actions, AWS, Jira, Confluence, IaC           |
 | <b>Certifications</b>   | <p align="center"><img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/4f70dcfd-c985-4fda-b8e1-8a61ae666da4' width="90" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/a1b4453e-e6c5-42bb-9083-9bf5baa9bec1' width="90" /></p> |
+
+</br>
+
+📊 Personal academic projects involving <b>Deep Learning, Computer Vision, Biotech</b> and <b>Data Science</b> :
+
+- <b>Master Thesis</b> on <a href='https://github.com/Rmarieta/3DNeuronDeepReinfLearning'>Using Deep Reinforcement Learning to Segment and Extract the Spatial Connectivity of 3D Neurons</a>. 
+- <a href='https://github.com/Rmarieta/LTS4'>Deep Learning and Graph Signal Processing to Classify Seizures from EEG Recordings</a>.
+- <a href='https://github.com/Rmarieta/NeuroDrosophila'>Implementation of a Computational Model of a Drosophila with Sensorimotor Functions</a>.
 
 </br>
 
