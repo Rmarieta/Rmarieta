@@ -4,7 +4,7 @@
 
 📌 Full-time Software Engineer working for the EPFL with strong interest and expertise in :
 
-<p align="center"><b>Software Development</b> &nbsp; :heavy_plus_sign: &nbsp; <b>AI</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Data Science</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Biotechnology</b></p>
+<p align="center"><b>Software Development</b> &nbsp; :heavy_plus_sign: &nbsp; <b>ML</b> &nbsp; :heavy_plus_sign: &nbsp; <b>DevOps</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Data Science</b></p>
 
 </br>
 
@@ -27,7 +27,7 @@
 | <b>Backend</b>          | Flask, Spring Boot, Node.js, Redis, Nginx, REST, GraphQL, WebSockets, Postman |
 | <b>DB</b>               | PostgreSQL, MySQL, MongoDB, Firebase                                          |
 | <b>DevOps</b>           | Docker, Kubernetes, Linux, Git, GitHub Actions, AWS, Jira, Confluence, IaC    |
-| <b>Certifications</b>   | <p align="center"><img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/4f70dcfd-c985-4fda-b8e1-8a61ae666da4' width="90" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/a1b4453e-e6c5-42bb-9083-9bf5baa9bec1' width="90" /></p> |
+| <b>Certifications</b>   | <p align="center"><img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/4f70dcfd-c985-4fda-b8e1-8a61ae666da4' width="90" />&nbsp; &nbsp; &nbsp;<img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/a1b4453e-e6c5-42bb-9083-9bf5baa9bec1' width="90" />  &nbsp; &nbsp; <img src='https://github.com/Rmarieta/Rmarieta/assets/33026272/c26f8dbf-6d26-4a48-8c72-30d9891155cb' width="90" /></p> |
 
 </br>
 
