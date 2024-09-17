@@ -2,7 +2,7 @@
 
 </br>
 
-📌 Full-time Software Engineer working for the EPFL with strong interest and expertise in :
+📌 DevOps Engineer working at Swisscom with strong interest and expertise in :
 
 <p align="center"><b>Software Development</b> &nbsp; :heavy_plus_sign: &nbsp; <b>ML</b> &nbsp; :heavy_plus_sign: &nbsp; <b>DevOps</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Data Science</b></p>
 
