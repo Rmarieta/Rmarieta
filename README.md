@@ -4,16 +4,16 @@
 
 📌 DevOps Engineer working at Swisscom with strong interest and expertise in :
 
-<p align="center"><b>Software Development</b> &nbsp; :heavy_plus_sign: &nbsp; <b>ML</b> &nbsp; :heavy_plus_sign: &nbsp; <b>DevOps</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Data Science</b></p>
+<p align="center"><b>Software Development</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Cloud</b> &nbsp; :heavy_plus_sign: &nbsp; <b>DevOps</b> &nbsp; :heavy_plus_sign: &nbsp; <b>ML</b> &nbsp; :heavy_plus_sign: &nbsp; <b>Data</b></p>
 
 </br>
 
 📁 <b>Software Development</b> :
 
+- Many personal projects such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/flask-nginx-redis-psql'>Scalable Dockerized Backend </a> (with Flask/Nginx/Redis/PostgreSQL), websites such as <a href="https://unianalytics.ch/">unianalytics.ch</a> explaining a project I have done. Check my personal repos for other projects.
 - Building on Open Source, mainly JupyterLab:
    1. Developing a tool used in university classrooms to enhance the interaction between teachers and students.
    2. Building JupyterLab extensions, such as this <a href='https://github.com/jupyterlab-contrib/jupyterlab-code-toc'>Table of Contents extension</a> with code and markdown content (public download available).
-- Many personal projects such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/flask-nginx-redis-psql'>Scalable Dockerized Backend </a> (with Flask/Nginx/Redis/PostgreSQL). Check my personal repos for other projects.
 - Tutorials (<a href='https://medium.com/@raphael.marietan'>Medium Articles</a>), algorithmic trading and testing out new-coming development frameworks.
 
 </br>
