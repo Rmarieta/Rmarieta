@@ -12,7 +12,7 @@
 
 - Now focused on Kubernetes and Cloud architecture on AWS.
 - Many personal projects such as : a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, and a <a href='https://github.com/Rmarieta/flask-nginx-redis-psql'>Scalable Dockerized Backend </a> (with Flask/Nginx/Redis/PostgreSQL), etc. Check my personal repos for other projects.
-- Webdev: websites such as <a href="https://unianalytics.ch/">unianalytics.ch</a> explaing a project I have done.
+- Webdev: websites such as <a href="https://unianalytics.ch/">unianalytics.ch</a> explaing a project I have done. <a href="https://github.com/Rmarieta/aws-website-terraform">Terraform repository to deploy a static website on AWS.</a>
 - Building on Open Source, mainly JupyterLab:
    1. Developing a tool used in university classrooms to enhance the interaction between teachers and students.
    2. Building JupyterLab extensions, such as this <a href='https://github.com/jupyterlab-contrib/jupyterlab-code-toc'>Table of Contents extension</a> with code and markdown content (public download available).
