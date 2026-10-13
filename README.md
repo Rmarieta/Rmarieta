@@ -12,7 +12,7 @@
 
 - Now focused on Kubernetes and Cloud architecture on AWS.
 - Many personal projects including:
-  - AWS/IaC: <a href="https://github.com/Rmarieta/aws-clickstream-analytics">Clickstream Analytics</a> a Data Engineering project, an <a href="https://github.com/Rmarieta/aws-mcp-opensearch-rssfeed">RSSFeed MCP</a> an AI integration (Bedrock, OpenSearch, Knowledge Base) project, <a href="https://github.com/Rmarieta/aws-website-terraform">Terraform repository to deploy a static website on AWS.</a>
+  - AWS/IaC: <a href="https://github.com/Rmarieta/aws-clickstream-analytics">Clickstream Analytics</a> - a Data Engineering project, <a href="https://github.com/Rmarieta/aws-mcp-opensearch-rssfeed">RSSFeed MCP</a> - an AI integration (Bedrock, OpenSearch, Knowledge Base) project, <a href="https://github.com/Rmarieta/aws-website-terraform">Terraform repository to deploy a static website on AWS.</a>
   - Software: a mobile <a href="https://github.com/Rmarieta/ChatAppReactNative">Chat App</a>, a <a href='https://github.com/Rmarieta/FullStackDashboard'>Financial Dashboard</a>, etc.
   - Webdev: websites such as <a href="https://unianalytics.ch/">unianalytics.ch</a> explaing a project I have done. 
 - Building on Open Source, mainly JupyterLab:
